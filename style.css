@@ -1,0 +1,71 @@
+#first {
+    background-color: #577b8d;
+    color: powderblue;
+    text-align: center;
+}
+* {
+    background-color: #240750;
+    color: antiquewhite;
+}
+#second {
+    color: #344c64;
+    background-color: whitesmoke;
+}
+#Third {
+    color: #57a6a1;
+    background-color: whitesmoke;
+    text-align: center;
+}
+#pic {
+    vertical-align: middle;
+
+}
+#laser {
+    font-size: larger;
+    font-weight: bold;
+}
+#eskimo {
+    font-size: larger;
+    font-weight: bold;
+}
+#gsd {
+    font-size: larger;
+    font-weight: bold;
+}
+#rott {
+    font-size: larger;
+    font-weight: bold;
+}
+#gall {
+    background-color: whitesmoke;
+    color: #344c64;
+}
+
+#logo {
+    text-align: right;
+    background-color: #577b8d;
+    font-weight: bolder;
+    font-style: italic;
+}
+#text {
+    text-align: right;
+}
+#fur {
+    text-align: right;
+}
+#mat {
+    color: whitesmoke;
+    background-color: #577b8d;
+}
+#esk {
+    color: #57a6a1;
+    background-color: #344c64;
+}
+#gsdd {
+    background-color: #57a6a1;
+    font-weight: bolder;
+}
+#rottw {
+    color: #577b8d;
+    background-color: #344c64;
+}
